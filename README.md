@@ -1,4 +1,4 @@
-• 👋 Hi, I’m @JoshuaAlvarez.
+• 👋 Hi, I’m @Joshua.
 
 • 🤔 I’m interested in Web Development and Game Development. 
 
