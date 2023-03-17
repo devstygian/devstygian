@@ -1,9 +1,10 @@
-• 👋 Hi, I’m @Joshua.
+<h2>Hi👋, I’m Joshua</h2>
 
-• 🤔 I’m interested in Web Development and Game Development. 
+<h3> About me! </h3>
+<p>• 🤔 I’m interested in Web Development and Game Development. </p>
 
-• 📚 I’m currently learning HTML, Java, and Unity.
+<p>• 📚 I’m currently learning HTML, Java, and Unity in <a href =https://scrimba.com/dashboard#overview"> scrimba</a>.</p>
 
-•📫 How to reach me hacstygian@gmail.com 
+<p>•📫 How to reach me <a href = "https://bento.me/stygian"> stygian</a> or <a href = "hacstygian@gmail.com" > email</a> me.</p>
 
-You can also check my first deployment in @Nestlify https://hackstygian.netlify.app/
+<p>You can also check my first deployment @Nestlify <a href = "https://hackstygian.netlify.app/"> here </a>.</p>
