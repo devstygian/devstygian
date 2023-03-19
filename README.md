@@ -1,7 +1,7 @@
 <h2>Hi👋, I’m Joshua</h2>
 
 <h3> About me! </h3>
-<p>• 🤔 I’m interested in Front-End Developer and Gamedev. </p>
+<p>• 🤔 I’m interested in Front-End Developer and Indie Game Developer. </p>
 
 <p>• 📚 I’m currently learning HTML, CSS, JS, and Java in <a href =https://scrimba.com/dashboard#overview"> scrimba</a>.</p>
 
