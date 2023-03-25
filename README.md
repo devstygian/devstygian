@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 <h2>Hi👋, I’m Joshua</h2>
 
 <h3> About me! </h3>
