@@ -9,7 +9,7 @@
 <h3>📫 How to reach me?</h3>
 <p>• You can connect with me <a href = "https://bento.me/stygian">here</a>. or <a href = "mailto: hackstygian@gmail.com "> email</a> me.</p>
 
-<p>You can also check my latest deployment @Nestlify <a href = "https://crystaltowerlogin.netlify.app/"> here </a>.</p>
+<p>You can also check my latest deployment @Nestlify <a href = "[https://crystaltowerlogin.netlify.app/](https://devstygian.github.io/Login-Registratin-Form/)"> here </a>.</p>
 
 <br>
 
