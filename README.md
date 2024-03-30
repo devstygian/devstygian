@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **hackstygian@gmail.com**
-- 👨‍💻 All of my projects are available at **https://devstygian.netlify.app/**
+- 📫  How to reach me: Click<a href="mailto:hackstygian@gmail.com"> Here!</a>
+- 👨‍💻 All of my projects are available at this<a href="https://devstygian.netlify.app/"> link</a>.
 - ⚡ Fun fact **I like to explore new things**
 
 <div> <a href="https://twitter.com/lilstygian" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
