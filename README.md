@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫  How to reach me: Click<a href="mailto:hackstygian@gmail.com"> Here!</a>
+- 📫  How to reach me: Click<a href="mailto:hackstygian@gmail.com"> Here</a>!
 - 👨‍💻 All of my projects are available at this<a href="https://devstygian.netlify.app/"> link</a>.
 - ⚡ Fun fact **I like to explore new things**
 
