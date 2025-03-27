@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devstygian&theme=monokai" alt="devstygian" /></a> </p>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **PHP & JS**
 
 - 📫  How to reach me: Click<a href="mailto:hackstygian@gmail.com"> Here</a>!
 - 👨‍💻 All of my projects are available at this<a href="#"> link</a>.
