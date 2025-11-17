@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center"> I’m Aspiring Cybersecurity and Web Developer</h3>
+<h3 align="center"> I’m Aspiring Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devstygian&label=Profile%20views&color=0e75b6&style=flat" alt="devstygian" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devstygian&theme=monokai" alt="devstygian" /></a> </p>
+
 
 - 🌱 I’m currently learning **PHP & MySql**
 - 📫  How to reach me: Click<a href="mailto:hackstygian@gmail.com"> Here</a>!
@@ -13,7 +13,9 @@
 <div> <a href="https://twitter.com/lilstygian" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/devstygian" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:hackstygian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+</div>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lilstygian" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="lilstygian" height="30" width="40" /></a><a href="https://www.leetcode.com/DevStygian" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="DevStygian" height="30" width="40" /></a></p>
 
@@ -43,16 +45,7 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devstygian&theme=highcontrast" alt="devstygian" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-  <a href="https://github.com/devstygian">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devstygian&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devstygian&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devstygian&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devstygian&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devstygian&theme=2077" height="180em" />
-</div>
-
-
+# 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devstygian&theme=monokai" alt="devstygian" /></a> </p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
