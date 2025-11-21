@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **PHP & MySql**
+- 🌱 I’m currently learning **PHP, MySql & React Native**
 - 📫  How to reach me: Click<a href="mailto:hackstygian@gmail.com"> Here</a>!
 - 👨‍💻 All of my projects are available at this<a href="#"> link</a>.
 - ⚡ Fun fact **I like to explore new things**
