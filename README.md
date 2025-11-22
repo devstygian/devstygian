@@ -17,7 +17,7 @@
 </th>
 <th width="60%">
 
-![](https://stable-github-profile-trophy.vercel.app/?username=devstygian&theme=radical)
+![](https://stable-github-profile-trophy.vercel.app/?username=devstygian&theme=radical&row=2&column=3&k&margin-w=15&margin-h=15)
 
 </th>
 </tr>
