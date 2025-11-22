@@ -1,4 +1,4 @@
-![👨‍💻 Hey I am, Joshua Alvarez 👨‍💻](./img/xd.png)
+![👨‍💻 Hey I am, Joshua Alvarez 👨‍💻](./img/bcb.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devstygian&label=Profile%20views&color=0e75b6&style=flat" alt="devstygian" /> </p>
 
