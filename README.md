@@ -1,10 +1,8 @@
 ![👨‍💻 Hey I am, Joshua Alvarez 👨‍💻](./img/xd.png)
 
-<h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center"> I’m Aspiring Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devstygian&label=Profile%20views&color=0e75b6&style=flat" alt="devstygian" /> </p>
 
-
+## 👨‍💻 About
 
 - 🌱 I’m currently learning **PHP, MySql & React Native**
 - 📫  How to reach me: Click<a href="mailto:hackstygian@gmail.com"> Here</a>!
@@ -16,7 +14,7 @@
 <a href = "mailto:hackstygian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<h3 align="left">Connect with me:</h3>
+## 🔗 Connect with me:
 <p align="left">
 <a href="https://twitter.com/lilstygian" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="lilstygian" height="30" width="40" /></a><a href="https://www.leetcode.com/DevStygian" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="DevStygian" height="30" width="40" /></a></p>
 
