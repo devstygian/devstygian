@@ -13,7 +13,7 @@
 <tr>
 <th>
   
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,php,mysql,css,html,java,net,cs,cpp,git,bootstrap&perline=4)](https://medium.com/@obrutus)
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,php,mysql,css,html,java,net,cs,cpp,git,vercel,netlify,bootstrap,&perline=4)](https://medium.com/@obrutus)
 </th>
 <th width="60%">
 
