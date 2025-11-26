@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me:
 
-- I’m currently learning **PHP, MySql & React Native**
+- I’m currently learning **PHP, MySql, JS & React Native**
 - Looking to collaborate with other developers
 - Fun fact: **I like to explore new things!**
 
