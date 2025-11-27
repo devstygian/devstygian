@@ -33,7 +33,18 @@
 
 ## 🔗 Reach Me:
 <p align="left">
-<a href="https://twitter.com/lilstygian" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="lilstygian" height="30" width="40" /></a><a href="https://www.leetcode.com/DevStygian" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="DevStygian" height="30" width="40" /></a></p>
+  <a href="https://twitter.com/lilstygian" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="lilstygian"             height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/DevStygian" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="DevStygian"           height="30" width="40" />
+  </a>
+   <a href="https://discord.gg/GYYfm2Ar" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="DevStygian"           height="30" width="40" />
+  </a>
+</p>
+
+
 
 
 
