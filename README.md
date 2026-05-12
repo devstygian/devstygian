@@ -32,19 +32,8 @@
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devstygian&theme=highcontrast" alt="devstygian" /></p>
 
 ## 🔗 Reach Me:
-<p align="left">
-  <a href="https://twitter.com/lilstygian" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="lilstygian"             height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/DevStygian" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="DevStygian"           height="30" width="40" />
-  </a>
-   <a href="https://discord.gg/GYYfm2Ar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="DevStygian"           height="30" width="40" />
-  </a>
-</p>
-
-
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/td4FypMvsU)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/lilstygian)
 
 
 
